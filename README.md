@@ -1,9 +1,4 @@
 # Chrome Extension GWC
-# howdy (alison)
-# sara
-# another test (clara)
-# Sabina :)
-# sofia
-# maya
-# evelyn
-# reut
+#
+### This extension was made by:
+#### Alison, Sara, Clara, Sofia, Maya, Evelyn, and Reut
