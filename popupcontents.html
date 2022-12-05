@@ -11,5 +11,8 @@
 
 <script>
   function addItem() {
+    var node = document.createElement('li');
+    node.appendChild(document.createTextNode('Test'));
+    document.querySelector('ul').appendChild(node);
   }
 </script>
